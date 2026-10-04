@@ -2,7 +2,7 @@ namespace konrevise.Remote.App;
 
 public static class AddressesStorage
 {
-	public const string Domain = "https://192.168.0.108:8080";
+	public const string Domain = ""; // вставьте домен
 
 	public const string Login = "login";
 	public const string MainMenu = "mainMenu";

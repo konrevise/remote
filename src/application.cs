@@ -5,7 +5,7 @@ namespace konrevise.Remote;
 
 public class Application
 {
-	private const string PfxPassword = "idk"; // вставьте сюда пароль
+	private const string PfxPassword = "tyNeProidesh"; // вставьте сюда пароль
 
 	public WebApplication WebApp { get; private set; }
 
